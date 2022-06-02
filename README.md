@@ -4,7 +4,6 @@
 
 <h3 aligin="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=AA00F7&width=300&lines=I+am+developing;Web+apps;Mobile+apps."></a></h3>
 
-🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **mtalha.aygen18@gmail.com**
 <hr>
