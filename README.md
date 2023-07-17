@@ -2,8 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mtalhaaygen&label=Profile%20views&color=0e75b6&style=flat" alt="mtalhaaygen" /> </p>
 
-<h3 aligin="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=AA00F7&width=600&lines=In+the+middle+of;difficulty+lies+opportunity"></a></h3>
-
+<h3 aligin="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=AA00F7&width=600&lines=You+really+understand+something;until+you+program+it."></a></h3>
 
 <hr>
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhaaygen&show_icons=true&theme=dark&locale=en" alt="mtalhaaygen" width="49%" /></p>
