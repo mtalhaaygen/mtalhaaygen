@@ -5,8 +5,6 @@
 <h3 aligin="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=AA00F7&width=600&lines=You+really+understand+something;until+you+program+it."></a></h3>
 
 <hr>
-<p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtalhaaygen&show_icons=true&theme=dark&locale=en" alt="mtalhaaygen" width="49%" /></p>
-<br>
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mtalhaaygen&show_icons=true&theme=radical&locale=en&layout=compact" alt="mtalhaaygen" width="49%"/></p>
 <br><br>
 <h3 align="center">Connect with me:</h3>
